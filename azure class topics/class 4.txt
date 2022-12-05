@@ -1,0 +1,7 @@
+1. create storage account in azure 
+2. create virtual network in azure
+3. create vm using azure template 
+4. how to protect resouce using resource lock
+5. azure file  sync  
+6. azure  backup (files  and  folders)
+

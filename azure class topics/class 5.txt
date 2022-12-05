@@ -1,0 +1,17 @@
+1. how to create linux vm in azure 
+
+2. how to install web server in azure vm
+
+3. how to connect stroage account using azure storage explorer
+
+4. how to raise support ticket in azure 
+
+5. how to increase quota limit in azure 
+
+6.  how to  install  and  configure  azure  bastion
+
+7. how to connect  vm  using  azure  bastion
+
+8.  how to install windows  admin centre  for  azure  vm 
+9.  how to connect  azure  vm using  windows  admin  centre
+

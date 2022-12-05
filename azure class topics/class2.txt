@@ -1,0 +1,15 @@
+1. how to troubleshoot RDp issuein azure vm -completed 
+
+2. reset username and password for azure vm  -completed 
+
+3. resize azurevm - completed 
+
+4. how to enable nested vm in  azure vm
+
+5. how change public ip for azure vm
+
+6. how to add 2nd virtual adapter for azure vm -completed 
+
+7. how to redeploy azure vm -completed 
+
+8. how to captuer azure vm 

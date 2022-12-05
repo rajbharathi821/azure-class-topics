@@ -1,0 +1,19 @@
+1. how to install powershellmodule for azure
+
+2. how to manage resources using powershell(resourcegroup ,vm,virtualnetwork, subscription)
+
+3. how to login azure via powershell( use device authentication)
+
+
+installing  powershell  module  for azure 
+
+1.  $psversiontable (5.1)
+
+2.  install-module  -name azure
+
+3.  install-module  -name azureRM
+
+4.  update-help 
+
+
+
