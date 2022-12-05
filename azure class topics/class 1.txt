@@ -1,0 +1,10 @@
+1. create free trail in azure -completed 
+
+2. creating  resourecegroup -completed 
+
+3. creating vm in azure -completed 
+
+4. adding disk for azure vm -completed 
+
+5. connect vm via RDP -completed 
+
